@@ -76,4 +76,5 @@ Students will apply text formatting basics to enhance the visual presentation of
    - Use the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to ensure your CSS is valid.
 
 10. **Submit Your Work**
-    Once you've confirmed that styling looks good, submit the following: - Submit your `styles.css` file inside of Google Classroom.
+    - Once you've confirmed that styling looks good, submit the following:
+    - Submit your `styles.css` file inside of Google Classroom.
